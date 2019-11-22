@@ -9,7 +9,9 @@
 ## Videos
 1. [Martin fowler goto 2014](https://www.youtube.com/watch?v=wgdBVIX9ifA)
 2. [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
-1. [GOTO 2015-DDD & Microservices](https://www.youtube.com/watch?v=yPvef9R3k-M)
+3. [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+4. [GOTO 2015-DDD & Microservices](https://www.youtube.com/watch?v=yPvef9R3k-M)
+5. [What I Wish I Had Known Before Scaling Uber to 1000 Services • Matt Ranney](https://www.youtube.com/watch?v=kb-m2fasdDY)
 
 
 ## Books
