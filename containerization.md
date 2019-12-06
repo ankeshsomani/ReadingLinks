@@ -1,2 +1,5 @@
 [Docker Documentation](https://docs.docker.com/)
 [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://docs.docker.com/)
+[Linux] (https://ryanstutorials.net/linuxtutorial/)
+[Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way/tree/master/docs)
+[Docker](https://youtu.be/8fi7uSYlOdc)
